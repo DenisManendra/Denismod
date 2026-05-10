@@ -13,8 +13,7 @@ TurboWarp's modifications to Scratch are licensed under the GNU General Public L
 The following is the original license for scratch-gui, which we are required to retain. This is NOT the license of this project.
 
 ```
-Copyright (c) 2026, Massachusetts Institute of Technology
-All rights reserved.
+Copyright (c) 2026, Made By Denis.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
